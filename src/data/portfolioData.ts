@@ -1,9 +1,9 @@
 import type { ProfileData, Project, TechItem, ExperienceItem } from '../types/portfolio';
 
 export const profileData: ProfileData = {
-  name: 'Reyhand Astra',
+  name: 'achmad mustofa yusud',
   tagline: 'Full-Stack & Mobile Developer',
-  education: 'Teknik Informatika (S1) • Universitas Widyatama',
+  education: 'Teknik komputer jaringan • smk shalahuddin',
   status: 'Available for Engineering Roles & Projects',
   bio: 'Informatics engineering undergraduate focused on building end-to-end web platforms and mobile applications with resilient architecture, clean code, and Linux-driven workflows.',
   experienceStart: 'Active Developer',
